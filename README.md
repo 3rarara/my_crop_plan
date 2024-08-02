@@ -26,9 +26,8 @@
 
 ## 設計書
 - 後日作成予定
+- [画面遷移図]([https://www.figma.com/design/te6oY9hhH464bylYuSoaZj/go_out_planning?node-id=0-1&t=4VhfMvfmlsP8mZMi-1](https://www.figma.com/design/vOrIIYTBScPQM51u6QgDPf/MyCropPlan?node-id=0-1&t=ovzvUlVEzTBQHNXt-1))
 
-## 画面設計
-- 画面数や各種レイアウトは、別途「画面設計」にて詳細を作成予定
 
 ## 使用素材
 著作権を考慮し、架空のデータを扱う予定です。
